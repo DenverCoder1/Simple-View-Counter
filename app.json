@@ -1,7 +1,8 @@
 {
   "name": "Simple view counter",
   "description": "View counter for github repos",
-  "repository": "https://github.com/DenverCoder1/Simple-View-Counter/",
+  "repository": "https://github.com/DenverCoder1/Simple-View-Counter",
+  "logo": "https://github-view-counter.herokuapp.com",
   "keywords": ["simple", "view", "counter", "dynamic", "github"],
   "addons": []
 }

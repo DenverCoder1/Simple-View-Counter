@@ -14,11 +14,13 @@ https://youtu.be/oDQCyQahn68
 
 Want this for your repository?
 
-Upload the files of this repo to your web server or simply click the button below to deploy to Heroku.
+Simply click the button below to deploy it on Heroku!
 
 <a href="https://heroku.com/deploy?template=https://github.com/DenverCoder1/Simple-View-Counter/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
+
+Alternatively, you can upload the files to any web server with PHP installed.
 
 ## Support
 

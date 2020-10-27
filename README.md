@@ -10,6 +10,16 @@ https://youtu.be/oDQCyQahn68
 
 <a href="https://youtu.be/oDQCyQahn68"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Watch-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
+## Deploy to heroku
+
+Want this for your repository?
+
+Upload the files of this repo to your web server or simply click the button below to deploy to Heroku.
+
+<a href="https://heroku.com/deploy?template=https://github.com/DenverCoder1/Simple-View-Counter">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+
 ## Support
 
 💖 If you like this project, give it a ⭐ and share it with friends!

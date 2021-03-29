@@ -1,6 +1,13 @@
-# Simple-View-Counter
+# Simple View Counter
 
- Simple view counter for websites and Github READMEs.
+<p>
+ <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+</p>
+
+Simple view counter for websites and Github READMEs.
+
+## Demo
 
 <img title="repo views" src="https://freshidea.com/jonah/app/simple-view-counter">
 
@@ -8,7 +15,8 @@
 
 https://youtu.be/oDQCyQahn68
 
-<a href="https://youtu.be/oDQCyQahn68"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Watch-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://youtu.be/oDQCyQahn68">
+ <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Watch-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 ## Deploy to heroku
 

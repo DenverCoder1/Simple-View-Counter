@@ -20,15 +20,7 @@ https://youtu.be/oDQCyQahn68
 
 ## Deploy to heroku
 
-Want this for your repository?
-
-Simply click the button below to deploy it on Heroku!
-
-<a href="https://heroku.com/deploy?template=https://github.com/DenverCoder1/Simple-View-Counter/tree/main">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
-
-Alternatively, you can upload the files to any web server with PHP installed.
+Want this for your repository? Simply upload the `index.php` to any web server with PHP installed.
 
 ## Support
 

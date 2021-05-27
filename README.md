@@ -18,9 +18,9 @@ https://youtu.be/oDQCyQahn68
 <a href="https://youtu.be/oDQCyQahn68">
  <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Watch-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
-## Deploy to heroku
+## Deploy
 
-Want this for your repository? Simply upload the `index.php` to any web server with PHP installed.
+Want this for your repository? Simply upload the [`index.php`](/src/index.php) to any web server with PHP installed.
 
 ## Support
 

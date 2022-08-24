@@ -20,7 +20,7 @@ https://youtu.be/oDQCyQahn68
 
 ## Deploy
 
-Want this for your repository? Simply upload the [`index.php`](/src/index.php) to any web server with PHP installed.
+Want this for your repository? Simply upload the [`index.php`](/index.php) to any web server with PHP installed.
 
 ## Support
 
